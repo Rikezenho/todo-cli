@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "bin": {
+    "todo": "index.js"
+  },
   "dependencies": {
     "chalk": "^2.4.2",
     "cli-table": "^0.3.1",
